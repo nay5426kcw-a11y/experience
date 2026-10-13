@@ -141,4 +141,10 @@
   .skill_text {
     left: 0;
   }
+  .img_exp img {
+    width: 400px;
+  }
+  .description_exp {
+    margin: 5px;
+  }
 }
